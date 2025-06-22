@@ -1,0 +1,5 @@
+chainlit
+llama-index
+openai
+numpy
+fastapi
